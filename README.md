@@ -11,7 +11,7 @@
     </td>
     <td>
       <a href="#TOP">
-        <img src="https://github-readme-stats.vercel.app/api?username=fFlandrescav&count_private=true&show_icons=true&theme=dark&hide_border=true" style="cursor:pointer;pointer-events:none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Flandrescav&count_private=true&show_icons=true&theme=dark&hide_border=true" style="cursor:pointer;pointer-events:none;">
       </a>
     </td>
   </tr>
